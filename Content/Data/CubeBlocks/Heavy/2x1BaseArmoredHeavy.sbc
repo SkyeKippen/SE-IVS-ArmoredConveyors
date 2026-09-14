@@ -26,10 +26,8 @@
             </Components>
 			<CriticalComponent Subtype="Motor" Index="0" />
 			<BuildProgressModels>
-                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\Armor\HeavySlope2BaseConstruction_1.mwm" />
-                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\Armor\HeavySlope2BaseConstruction_2.mwm" />
-                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\Armor\HeavySlope2BaseConstruction_3.mwm" />
-            </BuildProgressModels>
+				<Model BuildPercentUpperBound="1.00" File="Models\Cubes\large\2x1BaseArmored_BS1.mwm" />
+			</BuildProgressModels>
 			<MountPoints>
 				<MountPoint Side="Front" StartX="0.00" StartY="0.00" EndX="1.00" EndY="0.50" PressurizedWhenOpen="true"/>
 				<MountPoint Side="Back" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" PressurizedWhenOpen="true"/>
